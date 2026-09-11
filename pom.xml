@@ -5,8 +5,8 @@
          http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>io.github.xyz-jphil</groupId>
-    <artifactId>xyz-jphil-luvml-gen</artifactId>
+    <groupId>io.github.luvml</groupId>
+    <artifactId>gen</artifactId>
     <version>2.0</version>
     <packaging>jar</packaging>
 
